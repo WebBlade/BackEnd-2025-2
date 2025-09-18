@@ -1,1 +1,26 @@
-<error>invalid request</error>
+[ 
+  { 
+    "AuctionDate": "10.09.2024",
+    "AuctionNum": "130",
+    "ValCode": "EUR",
+    "StockCode": "UA4000232730",
+    "PayDate": "11.09.2024",
+    "RepayDate": "04.09.2025",
+    "DaysToRepay": 358,
+    "StockRestrict": 63102,
+    "StockRestrictN": 17199,
+    "StockRestrictMF": 100000,
+    "Bucket": "1y",
+    "IncomeLevel": 3.25,
+    "AvgLevel": 3.24,
+    "Amount": 63102,
+    "AmountN": 17199,
+    "BTC": 1,
+    "VolumeSubmit": 63102000,
+    "VolumeSold": 63102000,
+    "VolumeSoldN": 17199000,
+    "Attraction": 61162056.68,
+    "MinLevel": 3.15,
+    "MaxLevel": 3.25
+  }
+]

@@ -1,2 +1,3 @@
 course%3A%2F%2Fweb.backend%3Fname%3D%27%D0%A8%D0%B2%D0%BE%D1%80%D0%BE%D0%B1%20%D0%9C%D0%B0%D0%BA%D1%81%D0%B8%D0%BC%27%26group%3D%27%D0%A4%D0%95%D0%86-25%27%26subgroup%3D%272%27%23WebBlade
-https://bank.gov.ua/NBUStatService/v1/statdirectory/govsecurities?valcode=UAH&date=20240910&json
+
+https://bank.gov.ua/NBU_ovdp?val_code=EUR&date=10.09.2024&json
